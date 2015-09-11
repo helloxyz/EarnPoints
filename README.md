@@ -1,0 +1,2 @@
+# EarnPoints
+Earn points
